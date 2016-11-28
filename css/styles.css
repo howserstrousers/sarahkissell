@@ -1,0 +1,90 @@
+<style>
+
+	html{
+		font-size: 12px;
+	}
+
+	body{
+		margin:0 auto
+	}
+
+	h1{
+		font-size: 3rem
+	}
+
+	h2{
+		font-size:2rem;
+	}
+
+	h3{
+		font-size: 1rem
+	}
+
+	.splash{
+		margin:0 auto;
+		display: hidden;
+	}
+
+	.wrapper{
+		margin:0 auto;
+		padding:0 auto;
+		width:100%;
+		height:100%;
+	}
+
+	.header{
+		font-size: .8rem
+	}
+
+	.header p{
+		padding:3%;
+		text-decoration: underline;
+	}
+
+
+	.site-name{
+		text-align: center;
+		letter-spacing: -1px;
+	}
+
+	.about{
+		margin-top: 30px;
+		background-color: white;
+		display: none;
+		z-index:100;
+
+	}
+
+	.about p{
+		margin:0 auto;
+		width:80%;
+	}
+
+	.slider{
+		margin:0 auto;
+		margin-top:30px;
+		width:80%;
+		height:auto;
+	}
+
+	.slider img{
+		width:100%;
+	}
+
+	.description{
+
+	}
+
+	.description p{
+		font-size: .8rem
+	}
+
+
+	@media only screen and (min-width: 768px){
+
+
+	}
+
+
+
+</style>
